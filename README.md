@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [JavaScript / ECMAScript](#javascript-ecmascript)
+- [JavaScript / ECMAScript](#javascript--ecmascript)
 - [PHP](#php)
 - [PHP Docblock Parser](#php-docblock-parser)
 - [Python](#python)
