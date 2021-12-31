@@ -4,9 +4,14 @@
 
 ## Table of Contents
 
+- [JavaScript](#javascript)
 - [PHP](#php)
 - [PHP Docblock Parser](#php-docblock-parser)
 - [Python](#python)
+
+## JavaScript
+
+- [acorn](https://github.com/acornjs/acorn) - A tiny, fast JavaScript parser, written completely in JavaScript.
 
 ## PHP
 
