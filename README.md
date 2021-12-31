@@ -6,6 +6,7 @@
 
 - [PHP](#php)
 - [PHP Docblock Parser](#php-docblock-parser)
+- [Python](#python)
 
 ## PHP
 
@@ -17,6 +18,10 @@
 - [Phpactor Parser](https://github.com/phpactor/docblock) - A PHP Docblock parser by [Phpactor](https://github.com/phpactor).
 - [phpDocumentor ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - The ReflectionDocBlock component of phpDocumentor provides a DocBlock parser that is 100% compatible with the PHPDoc standard.
 - [PHPStan PHPDoc Parser](https://github.com/phpstan/phpdoc-parser) - Next generation phpDoc parser with support for intersection types and generics.
+
+## Python
+
+- [python/typed_ast](https://github.com/python/typed_ast) - `typed_ast` is a Python 3 package that provides a Python 2.7 and Python 3 parser similar to the standard ast library.
 
 ## ❤️ Support
 **Do you like this project? Support it by donating:**
