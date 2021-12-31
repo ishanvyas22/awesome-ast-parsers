@@ -7,7 +7,7 @@
 - [JavaScript / ECMAScript](#javascript--ecmascript)
     - [JSX](#jsx)
 - [PHP](#php)
-    - [PHP Docblock Parser](#php--docblock-parser)
+    - [PHP Docblock Parser](#php---docblock-parser)
 - [Python](#python)
 
 ## JavaScript / ECMAScript
