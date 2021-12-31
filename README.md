@@ -9,7 +9,7 @@
 
 ## PHP
 
-- [PHP Parser]() - .
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP supports PHP 5.2 to PHP 8.0. Its purpose is to simplify static code analysis and manipulation.
 
 ## ❤️ Support
 **Do you like this project? Support it by donating:**
