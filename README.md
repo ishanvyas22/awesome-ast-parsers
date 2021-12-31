@@ -4,17 +4,24 @@
 
 ## Table of Contents
 
-- [JavaScript](#javascript)
+- [JavaScript / ECMAScript](#javascript-ecmascript)
 - [PHP](#php)
 - [PHP Docblock Parser](#php-docblock-parser)
 - [Python](#python)
 
-## JavaScript
+## JavaScript / ECMAScript
 
 - [acorn](https://github.com/acornjs/acorn) - A tiny, fast JavaScript parser, written completely in JavaScript.
+- [Espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser.
+- [Esprima](https://github.com/jquery/esprima) - A high performance, standard-compliant ECMAScript parser written in ECMAScript (also popularly known as JavaScript).
+
+### JSX
+
+- [acorn-jsx](https://github.com/acornjs/acorn-jsx) - An acorn plugin to parse React.js JSX code into AST.
 
 ## PHP
 
+- [glayzzle/php-parser](https://github.com/glayzzle/php-parser) - A PHP Parser written in NodeJS to extract AST or tokens (PHP5 and PHP7).
 - [microsoft/tolerant-php-parser](https://github.com/microsoft/tolerant-php-parser) - An early-stage PHP parser designed for IDE usage scenarios.
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP supports PHP 5.2 to PHP 8.0. Its purpose is to simplify static code analysis and manipulation.
 
