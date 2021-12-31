@@ -5,12 +5,18 @@
 ## Table of Contents
 
 - [PHP](#php)
-
+- [PHP Docblock Parser](#php-docblock-parser)
 
 ## PHP
 
 - [microsoft/tolerant-php-parser](https://github.com/microsoft/tolerant-php-parser) - An early-stage PHP parser designed for IDE usage scenarios.
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP supports PHP 5.2 to PHP 8.0. Its purpose is to simplify static code analysis and manipulation.
+
+## PHP Docblock Parser
+
+- [Phpactor Parser](https://github.com/phpactor/docblock) - A PHP Docblock parser by [Phpactor](https://github.com/phpactor).
+- [phpDocumentor ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - The ReflectionDocBlock component of phpDocumentor provides a DocBlock parser that is 100% compatible with the PHPDoc standard.
+- [PHPStan PHPDoc Parser](https://github.com/phpstan/phpdoc-parser) - Next generation phpDoc parser with support for intersection types and generics.
 
 ## ❤️ Support
 **Do you like this project? Support it by donating:**
