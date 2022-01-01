@@ -7,8 +7,9 @@
 - [JavaScript / ECMAScript](#javascript--ecmascript)
     - [JSX](#jsx)
 - [PHP](#php)
-    - [PHP Docblock Parser](#php---docblock-parser)
+    - [PHP - Docblock Parser](#php---docblock-parser)
 - [Python](#python)
+- [TOML](#toml)
 
 ## JavaScript / ECMAScript
 
@@ -35,6 +36,11 @@
 ## Python
 
 - [python/typed_ast](https://github.com/python/typed_ast) - `typed_ast` is a Python 3 package that provides a Python 2.7 and Python 3 parser similar to the standard ast library.
+
+## TOML
+
+- [TOML ESLint Parser](https://github.com/ota-meshi/toml-eslint-parser) - A TOML parser that produces output compatible with ESLint.
+- [matklad/tom](https://github.com/matklad/tom) - A format-preserving TOML parser written in Rust.
 
 ## ❤️ Support
 **Do you like this project? Support it by donating:**
