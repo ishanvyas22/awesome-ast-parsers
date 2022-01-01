@@ -11,6 +11,7 @@
 - [PHP](#php)
     - [PHP - Docblock Parser](#php---docblock-parser)
 - [Python](#python)
+- [SQL](#sql)
 - [TOML](#toml)
 
 ## JAVA
@@ -48,6 +49,12 @@
 ## Python
 
 - [python/typed_ast](https://github.com/python/typed_ast) - `typed_ast` is a Python 3 package that provides a Python 2.7 and Python 3 parser similar to the standard ast library.
+
+## SQL
+
+- [taozhi8833998/node-sql-parser](https://github.com/taozhi8833998/node-sql-parser) - Parse simple SQL statements into an abstract syntax tree (AST) with the visited tableList and convert it back to SQL.
+- [godmodelabs/flora-sql-parser](https://github.com/godmodelabs/flora-sql-parser) - Parse simple SQL statements into an abstract syntax tree (AST) and convert it back to SQL.
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - A crate that provides an ANSI:SQL 2011 lexer and parser that can parse SQL into an Abstract Syntax Tree (AST).
 
 ## TOML
 
