@@ -39,8 +39,8 @@
 
 ## TOML
 
-- [TOML ESLint Parser](https://github.com/ota-meshi/toml-eslint-parser) - A TOML parser that produces output compatible with ESLint.
 - [matklad/tom](https://github.com/matklad/tom) - A format-preserving TOML parser written in Rust.
+- [TOML ESLint Parser](https://github.com/ota-meshi/toml-eslint-parser) - A TOML parser that produces output compatible with ESLint.
 
 ## ❤️ Support
 **Do you like this project? Support it by donating:**
