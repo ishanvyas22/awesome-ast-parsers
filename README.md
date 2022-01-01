@@ -4,12 +4,19 @@
 
 ## Table of Contents
 
+- [JSON](#json)
 - [JavaScript / ECMAScript](#javascript--ecmascript)
     - [JSX](#jsx)
 - [PHP](#php)
     - [PHP - Docblock Parser](#php---docblock-parser)
 - [Python](#python)
 - [TOML](#toml)
+
+## JSON
+
+- [humanwhocodes/momoa](https://github.com/humanwhocodes/momoa) - A JSON parser, tokenizer, traverser, and printer written in JavaScript.
+- [nadako/hxjsonast](https://github.com/nadako/hxjsonast/) - Parse JSON into position-aware AST with Haxe.
+- [vtrushin/json-to-ast](https://github.com/vtrushin/json-to-ast) - JSON AST parser written in JavaScript.
 
 ## JavaScript / ECMAScript
 
