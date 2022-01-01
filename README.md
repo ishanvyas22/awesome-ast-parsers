@@ -11,6 +11,7 @@
 - [PHP](#php)
     - [PHP - Docblock Parser](#php---docblock-parser)
 - [Python](#python)
+- [Scala](#scala)
 - [SQL](#sql)
 - [TOML](#toml)
 
@@ -49,6 +50,10 @@
 ## Python
 
 - [python/typed_ast](https://github.com/python/typed_ast) - `typed_ast` is a Python 3 package that provides a Python 2.7 and Python 3 parser similar to the standard ast library.
+
+## Scala
+
+- [Scalameta](https://scalameta.org/) - Library to read, analyze, transform and generate Scala programs.
 
 ## SQL
 
