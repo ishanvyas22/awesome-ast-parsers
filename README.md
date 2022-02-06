@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Go](#go)
 - [JAVA](#java)
 - [JavaScript / ECMAScript](#javascript--ecmascript)
     - [JSX](#jsx)
@@ -14,6 +15,10 @@
 - [Scala](#scala)
 - [SQL](#sql)
 - [TOML](#toml)
+
+## Go 
+
+- [tuqqu/go-parser](https://github.com/tuqqu/go-parser) - Golang parser written in PHP.
 
 ## JAVA
 
