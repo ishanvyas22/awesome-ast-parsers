@@ -16,6 +16,26 @@
 - [SQL](#sql)
 - [TOML](#toml)
 
+## Support ❤️
+**Do you like this project? Support it by donating:**
+
+<a href="https://www.buymeacoffee.com/ishanvyas" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+</a>
+
+<a href="https://www.patreon.com/ishanvyas">
+    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
+**or** [Paypal me](https://paypal.me/IshanVyas?locale.x=en_GB)
+
+**or** [![Contact me on Codementor](https://www.codementor.io/m-badges/isvyas/get-help.svg)](https://www.codementor.io/@isvyas?refer=badge)
+
+### Follow me
+- [GitHub](https://github.com/ishanvyas22)
+- [LinkedIn](https://www.linkedin.com/in/ishan-vyas-314111112)
+- [Twitter](https://twitter.com/ishanvyas22)
+
 ## Go 
 
 - [tuqqu/go-parser](https://github.com/tuqqu/go-parser) - Golang parser written in PHP.
@@ -71,24 +91,3 @@
 - [matklad/tom](https://github.com/matklad/tom) - A format-preserving TOML parser written in Rust.
 - [ota-meshi/toml-eslint-parser](https://github.com/ota-meshi/toml-eslint-parser) - A TOML parser that produces output compatible with ESLint.
 - [sparsetech/toml-scala](https://github.com/sparsetech/toml-scala) - A feature-complete implementation of TOML for the Scala platform.
-
-## ❤️ Support
-**Do you like this project? Support it by donating:**
-
-<a href="https://www.buymeacoffee.com/ishanvyas" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
-</a>
-
-<a href="https://www.patreon.com/ishanvyas">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-**or** [Paypal me](https://paypal.me/IshanVyas?locale.x=en_GB)
-
-**or** [![Contact me on Codementor](https://www.codementor.io/m-badges/isvyas/get-help.svg)](https://www.codementor.io/@isvyas?refer=badge)
-
-### Follow me
-- [GitHub](https://github.com/ishanvyas22)
-- [Instagram](https://www.instagram.com/ishancodes)
-- [LinkedIn](https://www.linkedin.com/in/ishan-vyas-314111112)
-- [Twitter](https://twitter.com/ishanvyas22)
